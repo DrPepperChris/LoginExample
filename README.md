@@ -7,4 +7,11 @@ Dependencies :
 
 Setup: 
 1) Download each dependency if you do not already have them installed. 
-2) download this project to your desired host machine.
+2) Download this project to your desired host machine.
+3) Run the login script :
+ 1A) From windows command line EG: C:\Program Files\Python36\python.exe C:\Users\dadmin\Desktop\path\to\index.py
+ 1B) Search for python editor IDLE, open index.py, select run in top level menu,and run module 
+ 
+ 2A) From Linux: Open terminal, cd to dir where index.py is located, and run './index.py'
+ *if you do not have correct permissions you might need to run chmod on file.
+ 
