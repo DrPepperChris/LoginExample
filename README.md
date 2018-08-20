@@ -11,7 +11,7 @@ Setup:
 
 
 Run the login script :
- 1A) From windows command line EG: C:\Program Files\Python36\python.exe C:\Users\dadmin\Desktop\path\to\index.py
+ 1A) From windows command line EG: C:\Program Files\Python36\python.exe C:\Users\path\to\index.py
  2A) Search for python editor IDLE, open index.py, select run in top level menu, and run module 
  
  1B) From Linux: Open terminal, cd to directory where index.py is located, and run './index.py'
